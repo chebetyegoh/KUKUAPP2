@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/black"
+    tools:context=".Housing">
+
+    <!-- TODO: Update blank fragment layout -->
+
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="229dp"
+        android:layout_marginTop="20dp"
+        android:layout_marginEnd="20dp"
+        android:text="Semi-intensive poultry housing systems
+Semi-intensive systems are commonly used by small scale producers and are characterized by having one or more pens in which the birds can forage on natural vegetation and insects to supplement the feed supplied. Provide at least two runs for alternating use to avoid build up of disease and parasites. Each run should allow at least 10 to 15m2 per hen and be fenced. A free-range allowing 40 to 80m2 per hen is required where the hens are expected to obtain a substantial part of their diet by foraging.
+
+Small simple poultry house
+A small, simple house, which allows 0.3 to 0.4m2 per bird, and which has thatched roof, a littered earth floor and slatted or chicken wire walls on at least three sides will provide protection from rough weather, from predators at night and offer shade in the day time. The shelter should be large enough to enter to collect eggs and be equipped with nest boxes, feeders, drinkers and perches. For convenience the house should be situated so that access to each of the runs can be provided with small outlet doors.
+
+Here is an example of a shelter for roosting and laying, which can be used in combination with daytime foraging by the hens. The legs of this structure have rat guards and ant protection and may be equipped with skids or wheels to make the whole unit easily movable between runs. Feed and water are provided in troughs outside the house.
+    "
+        android:textColor="@color/white" />
+
+
+</FrameLayout>

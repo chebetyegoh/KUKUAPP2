@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/black"
+    tools:context=".Breeds">
+
+    <!-- TODO: Update blank fragment layout -->
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_marginStart="20dp"
+        android:layout_marginTop="20dp"
+        android:layout_marginEnd="20dp"
+        android:textColor="@color/white"
+        android:text="Chickens
+        Many different breeds of chickens have been developed for different purposes. For simplicity, you can place them into three general categories: Laying, meat-producing and dual-purpose breeds.
+
+        Laying Breeds:
+        These breeds are known for their egg-laying capacity. Popular laying breeds include the White Leghorn, Red Sex Link and Black Sex Link breeds. A healthy hen will lay eggs for several years. Hens begin to lay at approximately 16–20 weeks of age and will lay between 20–23 dozen eggs the first year. At 14 months, laying hens usually begin to molt, the process by which they drop their old feathers and grow new ones. No eggs are laid during this period. After molting, hens will lay larger but fewer eggs per year (about 16–18 dozen).
+
+        Meat Breeds:
+        Meat-producing breeds are very efficient at converting feed to meat, producing approximately one pound of bodyweight for every two pounds of feed they eat. A popular meat-producing breed is the Cornish breed. The Cornish game hen is a cross between the Cornish and the New Hampshire or Plymouth Rock breeds. Meat-producing chickens are broad breasted and larger than the laying breeds. They grow and feather rapidly and will weigh five pounds or more at eight weeks. Broilers and fryers are butchered at 31/2 to 5 pounds, while a roaster is butchered at 6 to 8 pounds.
+
+        Dual-Purpose Breeds:
+        The dual-purpose breed is the classic backyard chicken. These breeds are hardy, self-reliant and fairly large bodied. Most lay large brown-shelled eggs. Examples include Rhode Island Red and New Hampshire breeds. Some laying and dual-purpose hens tend to get broody, which means they will want to sit on and hatch eggs. Because broody hens don’t lay eggs, egg production will be affected. Consult with your local extension agent or other poultry expert to help you choose the right breeds.
+
+        Turkeys, Game Birds and Other Poultry
+        Turkeys, geese, ducks and pheasants are often raised as pets or for their egg and meat-producing qualities. They also can make terrific projects for children to learn responsibility and animal husbandry skills.
+
+        Your local Nutrena dealer and extension agent are excellent resources for information on breeds and species that are appropriate for your goals and geographic region.
+  "/>
+
+
+</FrameLayout>

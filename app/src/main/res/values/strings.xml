@@ -1,0 +1,48 @@
+<resources>
+    <string name="app_name">KUKU APP</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">The healthiest chicken breeds tend to be some of the most popular breeds thanks to their hardiness. Some of these most healthy chicken breeds that have stood the test of time are called heritage breeds. (source)
+
+Heritage chicken breeds are known for their long lifespans living outdoors and their ability to adapt to different climates.
+
+Here are 13 of the healthiest chicken breeds, many of which are heritage breeds that have truly stood the test of time.
+    The Rhode Island Red chicken breed was first recognized in 1904 and since then, it has become known as a well-known hardy and healthy breed.
+
+Arguably one of the best dual-purpose egg layers, Rhode Island Reds can lay up to 200 brown eggs annually.
+
+These gorgeous deep brownish-red chickens can grow up to 8 pounds and can withstand harsh weather, especially extremely cold temperature. Their reputation as a healthy chicken breed continues to hold up even today.</string>
+    <string name="housing">When selecting an appropriate housing system for layers it is important to determine the needs of both the chickens and the people operating. A system that is
+
+labor efficient, reasonable in investment and easy to manage can be designed after considering the factors that affect the comfort, protection, efficiency and production of layers.
+
+There are five major systems used in housing of layers:
+
+Semi-intensive, deep litter, slatted or wire floor, a combination of slatted and deep litter; and cage or battery system."</string>
+    <string name="housing2">
+        Semi-intensive poultry housing systems
+Semi-intensive systems are commonly used by small scale producers and are characterized by having one or more pens in which the birds can forage on natural vegetation and insects to supplement the feed supplied. Provide at least two runs for alternating use to avoid build up of disease and parasites. Each run should allow at least 10 to 15m2 per hen and be fenced. A free-range allowing 40 to 80m2 per hen is required where the hens are expected to obtain a substantial part of their diet by foraging.
+
+Small simple poultry house
+A small, simple house, which allows 0.3 to 0.4m2 per bird, and which has thatched roof, a littered earth floor and slatted or chicken wire walls on at least three sides will provide protection from rough weather, from predators at night and offer shade in the day time. The shelter should be large enough to enter to collect eggs and be equipped with nest boxes, feeders, drinkers and perches. For convenience the house should be situated so that access to each of the runs can be provided with small outlet doors.
+
+Here is an example of a shelter for roosting and laying, which can be used in combination with daytime foraging by the hens. The legs of this structure have rat guards and ant protection and may be equipped with skids or wheels to make the whole unit easily movable between runs. Feed and water are provided in troughs outside the house.
+    </string>
+    <string name="breeds">
+        Chickens
+        Many different breeds of chickens have been developed for different purposes. For simplicity, you can place them into three general categories: Laying, meat-producing and dual-purpose breeds.
+
+        Laying Breeds:
+        These breeds are known for their egg-laying capacity. Popular laying breeds include the White Leghorn, Red Sex Link and Black Sex Link breeds. A healthy hen will lay eggs for several years. Hens begin to lay at approximately 16–20 weeks of age and will lay between 20–23 dozen eggs the first year. At 14 months, laying hens usually begin to molt, the process by which they drop their old feathers and grow new ones. No eggs are laid during this period. After molting, hens will lay larger but fewer eggs per year (about 16–18 dozen).
+
+        Meat Breeds:
+        Meat-producing breeds are very efficient at converting feed to meat, producing approximately one pound of bodyweight for every two pounds of feed they eat. A popular meat-producing breed is the Cornish breed. The Cornish game hen is a cross between the Cornish and the New Hampshire or Plymouth Rock breeds. Meat-producing chickens are broad breasted and larger than the laying breeds. They grow and feather rapidly and will weigh five pounds or more at eight weeks. Broilers and fryers are butchered at 31/2 to 5 pounds, while a roaster is butchered at 6 to 8 pounds.
+
+        Dual-Purpose Breeds:
+        The dual-purpose breed is the classic backyard chicken. These breeds are hardy, self-reliant and fairly large bodied. Most lay large brown-shelled eggs. Examples include Rhode Island Red and New Hampshire breeds. Some laying and dual-purpose hens tend to get broody, which means they will want to sit on and hatch eggs. Because broody hens don’t lay eggs, egg production will be affected. Consult with your local extension agent or other poultry expert to help you choose the right breeds.
+
+        Turkeys, Game Birds and Other Poultry
+        Turkeys, geese, ducks and pheasants are often raised as pets or for their egg and meat-producing qualities. They also can make terrific projects for children to learn responsibility and animal husbandry skills.
+
+        Your local Nutrena dealer and extension agent are excellent resources for information on breeds and species that are appropriate for your goals and geographic region.
+    </string>
+</resources>
